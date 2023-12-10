@@ -14,8 +14,8 @@ def divisao(a, b):
 
 print("Calculadora Simples")
 print("Escolha a operação:")
-print("1 - Adição")
-print("2 - Subtração")
+print("1 - subtração")
+print("2 - adição")
 print("3 - Multiplicação")
 print("4 - Divisão")
 
